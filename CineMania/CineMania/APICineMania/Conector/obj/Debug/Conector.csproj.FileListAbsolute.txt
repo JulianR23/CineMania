@@ -1,0 +1,12 @@
+C:\Users\julia\Downloads\CineMania (3)\CineMania\APICineMania\Conector\bin\Debug\Conector.dll.config
+C:\Users\julia\Downloads\CineMania (3)\CineMania\APICineMania\Conector\bin\Debug\Conector.dll
+C:\Users\julia\Downloads\CineMania (3)\CineMania\APICineMania\Conector\bin\Debug\Conector.pdb
+C:\Users\julia\Downloads\CineMania (3)\CineMania\APICineMania\Conector\bin\Debug\EntityFramework.dll
+C:\Users\julia\Downloads\CineMania (3)\CineMania\APICineMania\Conector\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\julia\Downloads\CineMania (3)\CineMania\APICineMania\Conector\bin\Debug\EntityFramework.xml
+C:\Users\julia\Downloads\CineMania (3)\CineMania\APICineMania\Conector\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\julia\Downloads\CineMania (3)\CineMania\APICineMania\Conector\obj\Debug\Conector.csproj.AssemblyReference.cache
+C:\Users\julia\Downloads\CineMania (3)\CineMania\APICineMania\Conector\obj\Debug\Conector.csproj.CoreCompileInputs.cache
+C:\Users\julia\Downloads\CineMania (3)\CineMania\APICineMania\Conector\obj\Debug\Conector.csproj.CopyComplete
+C:\Users\julia\Downloads\CineMania (3)\CineMania\APICineMania\Conector\obj\Debug\Conector.dll
+C:\Users\julia\Downloads\CineMania (3)\CineMania\APICineMania\Conector\obj\Debug\Conector.pdb

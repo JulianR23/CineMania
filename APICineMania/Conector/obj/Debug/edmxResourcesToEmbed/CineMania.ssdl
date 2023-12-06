@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CINEMANIAModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="PERSONA">
+    <Key>
+      <PropertyRef Name="CORREO" />
+    </Key>
+    <Property Name="NOMBRE" Type="varchar" MaxLength="30" />
+    <Property Name="TELEFONO" Type="varchar" MaxLength="10" />
+    <Property Name="CORREO" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="CONTRASEÑA" Type="varchar" MaxLength="500" />
+    <Property Name="ACCESO" Type="int" />
+  </EntityType>
+  <EntityContainer Name="CINEMANIAModelStoreContainer">
+    <EntitySet Name="PERSONA" EntityType="Self.PERSONA" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

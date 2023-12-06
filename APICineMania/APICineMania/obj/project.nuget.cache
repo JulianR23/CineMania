@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "abEskJQfsU9+I7gIen1twvXz9F1ifqvYjaDdEEe26anc0X1UNxelo8a2M4n3ljGEfvZJqd3clv13hOAQg9UikQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\julia\\Desktop\\Semestre 2023-2\\ProgramaciónSoftware\\CineMania\\CineMania\\APICineMania\\APICineMania\\APICineMania.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julia\\.nuget\\packages\\microsoft.vcrtforwarders.140\\1.0.6\\microsoft.vcrtforwarders.140.1.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

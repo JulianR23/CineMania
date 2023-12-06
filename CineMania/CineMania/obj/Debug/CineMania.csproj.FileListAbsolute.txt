@@ -1,0 +1,337 @@
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\bin\Debug\CineMania.exe.config
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\bin\Debug\CineMania.exe
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\bin\Debug\CineMania.pdb
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.AssemblyReference.cache
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\obj\Debug\CineMania.Properties.Resources.resources
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.GenerateResource.cache
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.CoreCompileInputs.cache
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\obj\Debug\CineMania.exe
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\obj\Debug\CineMania.pdb
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\obj\Debug\CineMania.InicioCorreo.resources
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.CineMania.resources
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.InicioCorreo.resources
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Properties.Resources.resources
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.exe
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.pdb
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\CineMania\bin\Debug\CineMania.exe.config
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\CineMania\bin\Debug\CineMania.exe
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\CineMania\bin\Debug\CineMania.pdb
+C:\Users\Brayan\Desktop\CineMania\CineMania\CineMania\CineMania\bin\Debug\CineMania.exe.config
+C:\Users\Brayan\Desktop\CineMania\CineMania\CineMania\CineMania\bin\Debug\CineMania.exe
+C:\Users\Brayan\Desktop\CineMania\CineMania\CineMania\CineMania\bin\Debug\CineMania.pdb
+C:\Users\Brayan\Desktop\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.AssemblyReference.cache
+C:\Users\Brayan\Desktop\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.CineMania.resources
+C:\Users\Brayan\Desktop\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.IngresarNuevaP.resources
+C:\Users\Brayan\Desktop\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.InicioCorreo.resources
+C:\Users\Brayan\Desktop\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Properties.Resources.resources
+C:\Users\Brayan\Desktop\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.GenerateResource.cache
+C:\Users\Brayan\Desktop\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.CoreCompileInputs.cache
+C:\Users\Brayan\Desktop\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.exe
+C:\Users\Brayan\Desktop\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.pdb
+C:\Users\Brayan\Desktop\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Consultas.ConsultarPeliculaNombre.resources
+C:\Users\Brayan\Desktop\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Consultas.ConsultarPeliculaCodigo.resources
+C:\Users\Brayan\Desktop\CineMania\CineMania\bin\Debug\CineMania.exe.config
+C:\Users\Brayan\Desktop\CineMania\CineMania\bin\Debug\CineMania.exe
+C:\Users\Brayan\Desktop\CineMania\CineMania\bin\Debug\CineMania.pdb
+C:\Users\Brayan\Desktop\CineMania\CineMania\obj\Debug\CineMania.csproj.AssemblyReference.cache
+C:\Users\Brayan\Desktop\CineMania\CineMania\obj\Debug\CineMania.CineMania.resources
+C:\Users\Brayan\Desktop\CineMania\CineMania\obj\Debug\CineMania.Consultas.ConsultarPeliculaCodigo.resources
+C:\Users\Brayan\Desktop\CineMania\CineMania\obj\Debug\CineMania.Consultas.ConsultarPeliculaNombre.resources
+C:\Users\Brayan\Desktop\CineMania\CineMania\obj\Debug\CineMania.IngresarNuevaP.resources
+C:\Users\Brayan\Desktop\CineMania\CineMania\obj\Debug\CineMania.InicioCorreo.resources
+C:\Users\Brayan\Desktop\CineMania\CineMania\obj\Debug\CineMania.Properties.Resources.resources
+C:\Users\Brayan\Desktop\CineMania\CineMania\obj\Debug\CineMania.csproj.GenerateResource.cache
+C:\Users\Brayan\Desktop\CineMania\CineMania\obj\Debug\CineMania.csproj.CoreCompileInputs.cache
+C:\Users\Brayan\Desktop\CineMania\CineMania\obj\Debug\CineMania.exe
+C:\Users\Brayan\Desktop\CineMania\CineMania\obj\Debug\CineMania.pdb
+C:\Users\julia\Desktop\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.AssemblyReference.cache
+C:\Users\julia\Desktop\CineMania\CineMania\CineMania\obj\Debug\CineMania.exe
+C:\Users\julia\Desktop\CineMania\CineMania\CineMania\obj\Debug\CineMania.pdb
+C:\Users\julia\Desktop\CineMania\CineMania\CineMania\bin\Debug\CineMania.exe.config
+C:\Users\julia\Desktop\CineMania\CineMania\CineMania\bin\Debug\CineMania.exe
+C:\Users\julia\Desktop\CineMania\CineMania\CineMania\bin\Debug\CineMania.pdb
+C:\Users\julia\Desktop\CineMania\CineMania\CineMania\obj\Debug\CineMania.CineMania.resources
+C:\Users\julia\Desktop\CineMania\CineMania\CineMania\obj\Debug\CineMania.Consultas.ConsultarPeliculaCodigo.resources
+C:\Users\julia\Desktop\CineMania\CineMania\CineMania\obj\Debug\CineMania.Consultas.ConsultarPeliculaNombre.resources
+C:\Users\julia\Desktop\CineMania\CineMania\CineMania\obj\Debug\CineMania.IngresarNuevaP.resources
+C:\Users\julia\Desktop\CineMania\CineMania\CineMania\obj\Debug\CineMania.InicioCorreo.resources
+C:\Users\julia\Desktop\CineMania\CineMania\CineMania\obj\Debug\CineMania.Properties.Resources.resources
+C:\Users\julia\Desktop\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.GenerateResource.cache
+C:\Users\julia\Desktop\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.CoreCompileInputs.cache
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\obj\Debug\CineMania.Consultas.ConsultarPeliculaCodigo.resources
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\obj\Debug\CineMania.Consultas.ConsultarPeliculaNombre.resources
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\obj\Debug\CineMania.Prestamo.resources
+C:\Users\Usuario\Downloads\CineMania (1)\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\CineMania (1)\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Downloads\CineMania (1)\CineMania\CineMania\CineMania\obj\Debug\CineMania.exe
+C:\Users\Usuario\Downloads\CineMania (1)\CineMania\CineMania\CineMania\obj\Debug\CineMania.pdb
+C:\Users\Usuario\Downloads\CineMania (1)\CineMania\CineMania\CineMania\obj\Debug\CineMania.CineMania.resources
+C:\Users\Usuario\Downloads\CineMania (1)\CineMania\CineMania\CineMania\obj\Debug\CineMania.Consultas.ConsultarPeliculaCodigo.resources
+C:\Users\Usuario\Downloads\CineMania (1)\CineMania\CineMania\CineMania\obj\Debug\CineMania.Consultas.ConsultarPeliculaNombre.resources
+C:\Users\Usuario\Downloads\CineMania (1)\CineMania\CineMania\CineMania\obj\Debug\CineMania.IngresarNuevaP.resources
+C:\Users\Usuario\Downloads\CineMania (1)\CineMania\CineMania\CineMania\obj\Debug\CineMania.InicioCorreo.resources
+C:\Users\Usuario\Downloads\CineMania (1)\CineMania\CineMania\CineMania\obj\Debug\CineMania.Prestamo.resources
+C:\Users\Usuario\Downloads\CineMania (1)\CineMania\CineMania\CineMania\obj\Debug\CineMania.Properties.Resources.resources
+C:\Users\Usuario\Downloads\CineMania (1)\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\CineMania (1)\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\CineMania (1)\CineMania\CineMania\CineMania\bin\Debug\CineMania.exe.config
+C:\Users\Usuario\Downloads\CineMania (1)\CineMania\CineMania\CineMania\bin\Debug\CineMania.exe
+C:\Users\Usuario\Downloads\CineMania (1)\CineMania\CineMania\CineMania\bin\Debug\CineMania.pdb
+C:\Users\Usuario\Downloads\CineMania (1)\CineMania\CineMania\CineMania\obj\Debug\CineMania.Asistente.resources
+C:\Users\Usuario\Downloads\CineMania (1)\CineMania\CineMania\CineMania\obj\Debug\CineMania.MaestroDetalle.resources
+C:\Users\julia\Desktop\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.AssemblyReference.cache
+C:\Users\julia\Desktop\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.exe
+C:\Users\julia\Desktop\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.pdb
+C:\Users\julia\Desktop\CineMania\CineMania\CineMania\CineMania\bin\Debug\CineMania.exe.config
+C:\Users\julia\Desktop\CineMania\CineMania\CineMania\CineMania\bin\Debug\CineMania.exe
+C:\Users\julia\Desktop\CineMania\CineMania\CineMania\CineMania\bin\Debug\CineMania.pdb
+C:\Users\julia\Desktop\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Asistente.resources
+C:\Users\julia\Desktop\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Consultas.ConsultarPeliculaCodigo.resources
+C:\Users\julia\Desktop\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Consultas.ConsultarPeliculaNombre.resources
+C:\Users\julia\Desktop\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.InicioCorreo.resources
+C:\Users\julia\Desktop\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.MaestroDetalle.resources
+C:\Users\julia\Desktop\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Prestamo.resources
+C:\Users\julia\Desktop\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Properties.Resources.resources
+C:\Users\julia\Desktop\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.GenerateResource.cache
+C:\Users\julia\Desktop\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.CoreCompileInputs.cache
+C:\Users\julia\Desktop\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Main.resources
+C:\Users\julia\Desktop\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Entrega.resources
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\bin\Debug\CineMania.exe.config
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\bin\Debug\CineMania.exe
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\bin\Debug\CineMania.pdb
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.AssemblyReference.cache
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Asistente.resources
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Entrega.resources
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Main.resources
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Consultas.ConsultarPeliculaCodigo.resources
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Consultas.ConsultarPeliculaNombre.resources
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.InicioCorreo.resources
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.MaestroDetalle.resources
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Prestamo.resources
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.PagWeb.resources
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Properties.Resources.resources
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.GenerateResource.cache
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.CoreCompileInputs.cache
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.exe
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.pdb
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\obj\Debug\CineMania.Asistente.resources
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\obj\Debug\CineMania.Entrega.resources
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\obj\Debug\CineMania.Main.resources
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\obj\Debug\CineMania.MaestroDetalle.resources
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\obj\Debug\CineMania.PagWeb.resources
+C:\Users\Usuario\OneDrive\Escritorio\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\OneDrive\Escritorio\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.exe
+C:\Users\Usuario\OneDrive\Escritorio\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.pdb
+C:\Users\Usuario\OneDrive\Escritorio\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Asistente.resources
+C:\Users\Usuario\OneDrive\Escritorio\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Entrega.resources
+C:\Users\Usuario\OneDrive\Escritorio\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Main.resources
+C:\Users\Usuario\OneDrive\Escritorio\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Consultas.ConsultarPeliculaCodigo.resources
+C:\Users\Usuario\OneDrive\Escritorio\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Consultas.ConsultarPeliculaNombre.resources
+C:\Users\Usuario\OneDrive\Escritorio\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.InicioCorreo.resources
+C:\Users\Usuario\OneDrive\Escritorio\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.MaestroDetalle.resources
+C:\Users\Usuario\OneDrive\Escritorio\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Prestamo.resources
+C:\Users\Usuario\OneDrive\Escritorio\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.PagWeb.resources
+C:\Users\Usuario\OneDrive\Escritorio\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\CineMania\CineMania\CineMania\CineMania\bin\Debug\CineMania.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\CineMania\CineMania\CineMania\CineMania\bin\Debug\CineMania.exe
+C:\Users\Usuario\OneDrive\Escritorio\CineMania\CineMania\CineMania\CineMania\bin\Debug\CineMania.pdb
+C:\Users\Usuario\OneDrive\Escritorio\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Escritorio\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Actualizacion.IngresarNuevaP.resources
+C:\Users\Usuario\OneDrive\Escritorio\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Actualizacion.EliminarPelicula.resources
+C:\Users\Usuario\OneDrive\Escritorio\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Actualizacion.Actualizar.resources
+C:\Users\Brayan\Desktop\CineManiaaa\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.AssemblyReference.cache
+C:\Users\Brayan\Desktop\CineManiaaa\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Actualizacion.Actualizar.resources
+C:\Users\Brayan\Desktop\CineManiaaa\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Actualizacion.EliminarPelicula.resources
+C:\Users\Brayan\Desktop\CineManiaaa\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Actualizacion.IngresarNuevaP.resources
+C:\Users\Brayan\Desktop\CineManiaaa\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Asistente.resources
+C:\Users\Brayan\Desktop\CineManiaaa\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Entrega.resources
+C:\Users\Brayan\Desktop\CineManiaaa\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Main.resources
+C:\Users\Brayan\Desktop\CineManiaaa\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Consultas.ConsultarPeliculaCodigo.resources
+C:\Users\Brayan\Desktop\CineManiaaa\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Consultas.ConsultarPeliculaNombre.resources
+C:\Users\Brayan\Desktop\CineManiaaa\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.InicioCorreo.resources
+C:\Users\Brayan\Desktop\CineManiaaa\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.MaestroDetalle.resources
+C:\Users\Brayan\Desktop\CineManiaaa\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Prestamo.resources
+C:\Users\Brayan\Desktop\CineManiaaa\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.PagWeb.resources
+C:\Users\Brayan\Desktop\CineManiaaa\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Vista.resources
+C:\Users\Brayan\Desktop\CineManiaaa\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.GenerateResource.cache
+C:\Users\Brayan\Desktop\CineManiaaa\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.exe
+C:\Users\Brayan\Desktop\CineManiaaa\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.pdb
+C:\Users\Brayan\Desktop\CineManiaaa\CineMania\CineMania\CineMania\CineMania\bin\Debug\CineMania.exe.config
+C:\Users\Brayan\Desktop\CineManiaaa\CineMania\CineMania\CineMania\CineMania\bin\Debug\CineMania.exe
+C:\Users\Brayan\Desktop\CineManiaaa\CineMania\CineMania\CineMania\CineMania\bin\Debug\CineMania.pdb
+C:\Users\Brayan\Desktop\CineManiaaa\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Properties.Resources.resources
+C:\Users\Brayan\Desktop\CineManiaaa\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.CoreCompileInputs.cache
+C:\Users\salak301\Desktop\CineManiaaa\CineManiaaa\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.AssemblyReference.cache
+C:\Users\salak301\Desktop\CineManiaaa\CineManiaaa\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Actualizacion.Actualizar.resources
+C:\Users\salak301\Desktop\CineManiaaa\CineManiaaa\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Actualizacion.EliminarPelicula.resources
+C:\Users\salak301\Desktop\CineManiaaa\CineManiaaa\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Actualizacion.IngresarNuevaP.resources
+C:\Users\salak301\Desktop\CineManiaaa\CineManiaaa\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Asistente.resources
+C:\Users\salak301\Desktop\CineManiaaa\CineManiaaa\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Entrega.resources
+C:\Users\salak301\Desktop\CineManiaaa\CineManiaaa\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Main.resources
+C:\Users\salak301\Desktop\CineManiaaa\CineManiaaa\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Consultas.ConsultarPeliculaCodigo.resources
+C:\Users\salak301\Desktop\CineManiaaa\CineManiaaa\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Consultas.ConsultarPeliculaNombre.resources
+C:\Users\salak301\Desktop\CineManiaaa\CineManiaaa\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.InicioCorreo.resources
+C:\Users\salak301\Desktop\CineManiaaa\CineManiaaa\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.MaestroDetalle.resources
+C:\Users\salak301\Desktop\CineManiaaa\CineManiaaa\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Prestamo.resources
+C:\Users\salak301\Desktop\CineManiaaa\CineManiaaa\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.PagWeb.resources
+C:\Users\salak301\Desktop\CineManiaaa\CineManiaaa\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Vista.resources
+C:\Users\salak301\Desktop\CineManiaaa\CineManiaaa\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.GenerateResource.cache
+C:\Users\salak301\Desktop\CineManiaaa\CineManiaaa\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.exe
+C:\Users\salak301\Desktop\CineManiaaa\CineManiaaa\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.pdb
+C:\Users\salak301\Desktop\CineManiaaa\CineManiaaa\CineMania\CineMania\CineMania\CineMania\bin\Debug\CineMania.exe.config
+C:\Users\salak301\Desktop\CineManiaaa\CineManiaaa\CineMania\CineMania\CineMania\CineMania\bin\Debug\CineMania.exe
+C:\Users\salak301\Desktop\CineManiaaa\CineManiaaa\CineMania\CineMania\CineMania\CineMania\bin\Debug\CineMania.pdb
+C:\Users\salak301\Desktop\CineManiaaa\CineManiaaa\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Properties.Resources.resources
+C:\Users\salak301\Desktop\CineManiaaa\CineManiaaa\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.CoreCompileInputs.cache
+C:\Users\salak301\Downloads\CineMania\CineMania\CineMania\bin\Debug\CineMania.exe.config
+C:\Users\salak301\Downloads\CineMania\CineMania\CineMania\bin\Debug\CineMania.exe
+C:\Users\salak301\Downloads\CineMania\CineMania\CineMania\bin\Debug\CineMania.pdb
+C:\Users\salak301\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.AssemblyReference.cache
+C:\Users\salak301\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.Actualizacion.Actualizar.resources
+C:\Users\salak301\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.Actualizacion.EliminarPelicula.resources
+C:\Users\salak301\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.Actualizacion.IngresarNuevaP.resources
+C:\Users\salak301\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.Asistente.resources
+C:\Users\salak301\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.Entrega.resources
+C:\Users\salak301\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.Main.resources
+C:\Users\salak301\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.Consultas.ConsultarPeliculaCodigo.resources
+C:\Users\salak301\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.Consultas.ConsultarPeliculaNombre.resources
+C:\Users\salak301\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.InicioCorreo.resources
+C:\Users\salak301\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.MaestroDetalle.resources
+C:\Users\salak301\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.Prestamo.resources
+C:\Users\salak301\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.PagWeb.resources
+C:\Users\salak301\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.Properties.Resources.resources
+C:\Users\salak301\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.Vista.resources
+C:\Users\salak301\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.GenerateResource.cache
+C:\Users\salak301\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.CoreCompileInputs.cache
+C:\Users\salak301\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.exe
+C:\Users\salak301\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.pdb
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.exe
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.pdb
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.Actualizacion.Actualizar.resources
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.Actualizacion.EliminarPelicula.resources
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.Actualizacion.IngresarNuevaP.resources
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.API.Logueo.resources
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.Asistente.resources
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.Entrega.resources
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.Main.resources
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.Consultas.ConsultarPeliculaCodigo.resources
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.Consultas.ConsultarPeliculaNombre.resources
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.InicioCorreo.resources
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.MaestroDetalle.resources
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.Prestamo.resources
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.PagWeb.resources
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.Properties.Resources.resources
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.Vista.resources
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\bin\Debug\CineMania.exe.config
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\bin\Debug\CineMania.exe
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\bin\Debug\CineMania.pdb
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\bin\Debug\RestSharp.dll
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\bin\Debug\System.Memory.dll
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\bin\Debug\System.Text.Json.dll
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\bin\Debug\System.ValueTuple.dll
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\bin\Debug\RestSharp.xml
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\bin\Debug\System.Memory.xml
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\bin\Debug\System.Text.Json.xml
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\bin\Debug\System.ValueTuple.xml
+C:\Users\Usuario\Downloads\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.CopyComplete
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.AssemblyReference.cache
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\obj\Debug\CineMania.exe
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\obj\Debug\CineMania.pdb
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\bin\Debug\CineMania.exe.config
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\bin\Debug\CineMania.exe
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\bin\Debug\CineMania.pdb
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\bin\Debug\Newtonsoft.Json.dll
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\bin\Debug\RestSharp.dll
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\bin\Debug\System.Buffers.dll
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\bin\Debug\System.Memory.dll
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\bin\Debug\System.Text.Json.dll
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\bin\Debug\System.ValueTuple.dll
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\bin\Debug\Newtonsoft.Json.xml
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\bin\Debug\RestSharp.xml
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\bin\Debug\System.Buffers.xml
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\bin\Debug\System.Memory.xml
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\bin\Debug\System.Text.Json.xml
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\bin\Debug\System.ValueTuple.xml
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\obj\Debug\CineMania.Actualizacion.Actualizar.resources
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\obj\Debug\CineMania.Actualizacion.EliminarPelicula.resources
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\obj\Debug\CineMania.Actualizacion.IngresarNuevaP.resources
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\obj\Debug\CineMania.Asistente.resources
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\obj\Debug\CineMania.Entrega.resources
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\obj\Debug\CineMania.Main.resources
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\obj\Debug\CineMania.Consultas.ConsultarPeliculaCodigo.resources
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\obj\Debug\CineMania.Consultas.ConsultarPeliculaNombre.resources
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\obj\Debug\CineMania.InicioCorreo.resources
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\obj\Debug\CineMania.MaestroDetalle.resources
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\obj\Debug\CineMania.Prestamo.resources
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\obj\Debug\CineMania.PagWeb.resources
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\obj\Debug\CineMania.Properties.Resources.resources
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\obj\Debug\CineMania.Vista.resources
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.GenerateResource.cache
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.CoreCompileInputs.cache
+C:\Users\julia\Downloads\CineMania (3)\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.CopyComplete
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\bin\Debug\Newtonsoft.Json.dll
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\bin\Debug\RestSharp.dll
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\bin\Debug\System.Buffers.dll
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\bin\Debug\System.Memory.dll
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\bin\Debug\System.Text.Json.dll
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\bin\Debug\System.ValueTuple.dll
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\bin\Debug\Newtonsoft.Json.xml
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\bin\Debug\RestSharp.xml
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\bin\Debug\System.Buffers.xml
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\bin\Debug\System.Memory.xml
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\bin\Debug\System.Text.Json.xml
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\bin\Debug\System.ValueTuple.xml
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Actualizacion.Actualizar.resources
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Actualizacion.EliminarPelicula.resources
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Actualizacion.IngresarNuevaP.resources
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Vista.resources
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.csproj.CopyComplete
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.Registro.resources
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\bin\Debug\CineMania.exe.manifest
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\bin\Debug\CineMania.application
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.exe.manifest
+C:\Users\julia\Desktop\Semestre 2023-2\ProgramaciónSoftware\CineMania\CineMania\CineMania\CineMania\obj\Debug\CineMania.application

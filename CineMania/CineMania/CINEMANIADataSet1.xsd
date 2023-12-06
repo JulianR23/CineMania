@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="CINEMANIADataSet1" targetNamespace="http://tempuri.org/CINEMANIADataSet1.xsd" xmlns:mstns="http://tempuri.org/CINEMANIADataSet1.xsd" xmlns="http://tempuri.org/CINEMANIADataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="CINEMANIAConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="CINEMANIAConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.CineMania.Properties.Settings.GlobalReference.Default.CINEMANIAConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="PELICULASDISPONIBLESTableAdapter" GeneratorDataComponentClassName="PELICULASDISPONIBLESTableAdapter" Name="PELICULASDISPONIBLES" UserDataComponentName="PELICULASDISPONIBLESTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="CINEMANIAConnectionString (Settings)" DbObjectName="CINEMANIA.dbo.PELICULASDISPONIBLES" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT GENERO, NOMBRE, PRECIO FROM dbo.PELICULASDISPONIBLES</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="GENERO" DataSetColumn="GENERO" />
+              <Mapping SourceColumn="NOMBRE" DataSetColumn="NOMBRE" />
+              <Mapping SourceColumn="PRECIO" DataSetColumn="PRECIO" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="CINEMANIADataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_UserDSName="CINEMANIADataSet1" msprop:Generator_DataSetName="CINEMANIADataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="PELICULASDISPONIBLES" msprop:Generator_RowEvHandlerName="PELICULASDISPONIBLESRowChangeEventHandler" msprop:Generator_RowDeletedName="PELICULASDISPONIBLESRowDeleted" msprop:Generator_RowDeletingName="PELICULASDISPONIBLESRowDeleting" msprop:Generator_RowEvArgName="PELICULASDISPONIBLESRowChangeEvent" msprop:Generator_TablePropName="PELICULASDISPONIBLES" msprop:Generator_RowChangedName="PELICULASDISPONIBLESRowChanged" msprop:Generator_RowChangingName="PELICULASDISPONIBLESRowChanging" msprop:Generator_TableClassName="PELICULASDISPONIBLESDataTable" msprop:Generator_RowClassName="PELICULASDISPONIBLESRow" msprop:Generator_TableVarName="tablePELICULASDISPONIBLES" msprop:Generator_UserTableName="PELICULASDISPONIBLES">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="GENERO" msprop:Generator_ColumnPropNameInRow="GENERO" msprop:Generator_ColumnPropNameInTable="GENEROColumn" msprop:Generator_ColumnVarNameInTable="columnGENERO" msprop:Generator_UserColumnName="GENERO" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NOMBRE" msprop:Generator_ColumnPropNameInRow="NOMBRE" msprop:Generator_ColumnPropNameInTable="NOMBREColumn" msprop:Generator_ColumnVarNameInTable="columnNOMBRE" msprop:Generator_UserColumnName="NOMBRE" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PRECIO" msprop:Generator_ColumnPropNameInRow="PRECIO" msprop:Generator_ColumnPropNameInTable="PRECIOColumn" msprop:Generator_ColumnVarNameInTable="columnPRECIO" msprop:Generator_UserColumnName="PRECIO" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
